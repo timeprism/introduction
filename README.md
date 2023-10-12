@@ -14,7 +14,7 @@ A 'play' is ten bits plus an extra bit and second.
 
 A 'sharp' is ten plays plus an extra play, bit and second.
 
-Each wind is made up of ten sharps, plus and extra play, bit and second.
+Each wind is made up of ten sharps, plus an extra play, bit and second.
 
 There is little magic in the sequence, and a few seconds grace at the end of the day, which allows the total number of seconds to match that of the conventional 24 hour clock.
 
