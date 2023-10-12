@@ -38,6 +38,6 @@ The last second, called 'X' is violet.
 
 ## Demo
 
-A demonstation of one particular clock running to this time system is online at <timeprism.github.io>.
+A demonstation of one particular clock running to this time system is online at [timeprism.github.io](timeprism.github.io).
 
 
