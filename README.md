@@ -33,7 +33,7 @@ The winds each have a name and color, in sequence these are:
 
 The other units follow a spectrum from red to violet.
 
-So the first, we call '0' is red.
+So the first, we call '1' is red.
 The last, 'X' is violet.
 
 ## Demo
