@@ -63,4 +63,4 @@ A demo of one particular clock running to this time system is online at [timepri
 
 ## Gallery
 
-[Screenshots](https://github.com/timeprism/introduction/tree/main/gallery) of various prototypes using this time system.
+There are [Screenshots](https://github.com/timeprism/introduction/tree/main/gallery) of various software prototypes using this time system. These were composed in [Pythonista](http://omz-software.com/pythonista/).
