@@ -57,6 +57,10 @@ So the last bit of the second play of the first sharp of vida is written:
 
 ``♆ 1 ▷ X``
 
+## Name
+
+Various names have been suggested for this time system. 'Ones' is one of these. It is associated with the occurence of the number eleven, always adding an extra one at the end of a sequence, and the idea of "owning one's own time".
+
 ## Demo
 
 A demo of one particular clock running to this time system is online at [timeprism.github.io](https://timeprism.github.io). This was written with Javascript and [Konva](https://konvajs.org/index.html).
