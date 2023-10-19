@@ -6,6 +6,8 @@
 
 ![](https://raw.githubusercontent.com/timeprism/introduction/main/gallery/IMG_1890.jpeg)
 
+![](https://raw.githubusercontent.com/timeprism/introduction/main/gallery/IMG_1892.jpeg)
+
 ![](https://raw.githubusercontent.com/timeprism/introduction/main/gallery/IMG_1894.jpeg)
 
 ![](https://raw.githubusercontent.com/timeprism/introduction/main/gallery/IMG_1895.jpeg)
@@ -18,4 +20,4 @@
 
 # Dialed
 
-![](https://raw.githubusercontent.com/timeprism/introduction/main/gallery/IMG_1892.jpeg)
+![](https://raw.githubusercontent.com/timeprism/introduction/main/gallery/IMG_1893.jpeg)
