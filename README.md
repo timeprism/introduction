@@ -16,7 +16,7 @@ A 'sharp' is ten plays plus an extra play, bit and second.
 
 Each wind is made up of ten sharps, plus an extra play, bit and second.
 
-There is little magic in the sequence, and a few seconds grace at the end of the day, which allows the total number of seconds to match that of the conventional 24 hour clock.
+With some repetition at the end of sequences, and a few seconds grace at the end of the day, the total number of seconds matches that of the conventional 24 hour clock.
 
 ## Winds
 
