@@ -38,6 +38,8 @@ The other units follow a spectrum from red to violet.
 So the first, we call '1' is red.
 The last, 'X' is violet.
 
+![units](https://raw.githubusercontent.com/timeprism/introduction/main/units.png)
+
 ## Demo
 
 A demonstation of one particular clock running to this time system is online at [timeprism.github.io](https://timeprism.github.io).
