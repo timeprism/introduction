@@ -57,7 +57,7 @@ So the last bit of the second play of the first sharp of vida is written:
 
 ## Demo
 
-A demonstation of one particular clock running to this time system is online at [timeprism.github.io](https://timeprism.github.io).
+A demo of one particular clock running to this time system is online at [timeprism.github.io](https://timeprism.github.io).
 
 ## Gallery
 
