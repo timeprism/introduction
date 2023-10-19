@@ -46,7 +46,7 @@ A shorthand for writing the time (to the nearest bit) is:
 
 `{wind symbol} {sharp} # {play} ▷ {bit}
 
-So bit 1 of sharp 2 of play 3 of eto is written:
+So bit 1 of play 2 of sharp 3 of eto is written:
 
 ☉ 3 # 2 ▷ 1
 
