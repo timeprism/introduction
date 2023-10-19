@@ -1,4 +1,4 @@
-# introduction
+# Introduction
 
 An alternative time system by Benno van Hilten
 
