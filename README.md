@@ -20,14 +20,14 @@ With some repetition at the end of sequences, and a few seconds grace at the end
 
 ## Winds
 
-The winds each have a name and color, in sequence these are:
-- alma (magenta)
-- lua (deep purple)
-- llum (dark blue)
-- eto (yellow)
-- vida (green)
-- oorun (orange)
-- ruby (red)
+The winds each have a name, symbol and color, in sequence these are:
+- alma ♃ (magenta)
+- lua ☾ (deep purple)
+- llum ♀ (dark blue)
+- eto ☉ (yellow)
+- vida ♆ (green)
+- oorun ☿ (orange)
+- ruby ♁ (red)
 
 ![seven winds](https://raw.githubusercontent.com/timeprism/introduction/main/wind%20times.png)
 
@@ -37,6 +37,8 @@ The other units follow a spectrum from red to violet.
 
 So the first, we call '1' is red.
 The last, 'X' is violet.
+
+## Notation
 
 ![units](https://raw.githubusercontent.com/timeprism/introduction/main/unit%20colors.png)
 
