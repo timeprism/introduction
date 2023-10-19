@@ -29,6 +29,8 @@ The winds each have a name and color, in sequence these are:
 - oorun (orange)
 - ruby (red)
 
+![seven winds](https://raw.githubusercontent.com/timeprism/introduction/main/winds.png)
+
 ## Colors
 
 The other units follow a spectrum from red to violet.
