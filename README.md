@@ -61,4 +61,4 @@ A demonstation of one particular clock running to this time system is online at 
 
 ## Gallery
 
-[Screenshots](https://github.com/timeprism/introduction/gallery) of various prototypes using this time system.
+[Screenshots](https://github.com/timeprism/introduction/tree/main/gallery) of various prototypes using this time system.
