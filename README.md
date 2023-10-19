@@ -29,7 +29,7 @@ The winds each have a name and color, in sequence these are:
 - oorun (orange)
 - ruby (red)
 
-![seven winds](https://raw.githubusercontent.com/timeprism/introduction/main/wind%20names%20and%20times.png)
+![seven winds](https://raw.githubusercontent.com/timeprism/introduction/main/wind%20times.png)
 
 ## Colors
 
