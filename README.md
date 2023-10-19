@@ -44,17 +44,17 @@ The last, 'X' is violet.
 
 A shorthand for writing the time (to the nearest bit) is:
 
-`{wind symbol} {sharp} # {play} ▷ {bit}
+  {wind symbol} {sharp} # {play} ▷ {bit}
 
 So bit 1 of play 2 of sharp 3 of eto is written:
 
-☉ 3 # 2 ▷ 1
+  ☉ 3 # 2 ▷ 1
 
 The first of any unit is zero, the last is X (or ten). A unit is omitted if it is zero.
 
 So the last bit of the second play of the first sharp of vida is written:
 
-♆ 2 ▷ X
+  ♆ 2 ▷ X
 
 ## Demo
 
