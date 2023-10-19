@@ -1,4 +1,4 @@
-Screenshots of some other prototypes
+# Screenshots of different prototypes / configurations
 
 ![](https://raw.githubusercontent.com/timeprism/introduction/main/gallery/IMG_1889.jpeg)
 
