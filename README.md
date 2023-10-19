@@ -38,7 +38,7 @@ The other units follow a spectrum from red to violet.
 So the first, we call '1' is red.
 The last, 'X' is violet.
 
-![units](https://raw.githubusercontent.com/timeprism/introduction/main/units.png)
+![units](https://raw.githubusercontent.com/timeprism/introduction/main/unit%20colors.png)
 
 ## Demo
 
