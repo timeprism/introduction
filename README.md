@@ -38,9 +38,23 @@ The other units follow a spectrum from red to violet.
 So the first, we call '1' is red.
 The last, 'X' is violet.
 
+![units](https://raw.githubusercontent.com/timeprism/introduction/main/unit%20colors.png)
+
 ## Notation
 
-![units](https://raw.githubusercontent.com/timeprism/introduction/main/unit%20colors.png)
+A shorthand for writing the time (to the nearest bit) is:
+
+`{wind symbol} {sharp} # {play} ▷ {bit}
+
+So bit 1 of sharp 2 of play 3 of eto is written:
+
+☉ 3 # 2 ▷ 1
+
+The first of any unit is zero, the last is X (or ten). A unit is omitted if it is zero.
+
+So the last bit of the second play of the first sharp of vida is written:
+
+♆ 2 ▷ X
 
 ## Demo
 
