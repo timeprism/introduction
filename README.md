@@ -35,8 +35,7 @@ The winds each have a name, symbol and color, in sequence these are:
 
 The other units follow a spectrum from red to violet.
 
-So the first, we call '1' is red.
-The last, 'X' is violet.
+'1' is red and ten, written 'X' as in the Roman numeral, is violet.
 
 ![units](https://raw.githubusercontent.com/timeprism/introduction/main/unit%20colors.png)
 
@@ -50,7 +49,7 @@ So bit 1 of play 2 of sharp 3 of eto is written:
 
   ☉ 3 # 2 ▷ 1
 
-The first of any unit is zero, the last is X (or ten). A unit can be omitted if it is zero.
+The first unit in a sequence is zero, which can be omitted.
 
 So the last bit of the second play of the first sharp of vida is written:
 
