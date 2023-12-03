@@ -24,9 +24,9 @@ The winds each have a name, symbol and color, in sequence these are:
 - alma ♃ (magenta)
 - lua ☾ (deep purple)
 - llum ♀ (dark blue)
-- eto ☉ (yellow)
+- oorun ☉ (yellow)
 - vida ♆ (green)
-- oorun ☿ (orange)
+- eto ☿ (orange)
 - ruby ♁ (red)
 
 ![seven winds](https://raw.githubusercontent.com/timeprism/introduction/main/wind%20times.png)
