@@ -1,6 +1,6 @@
 # Introduction
 
-An alternative time system by Benno van Hilten
+An alternative time system by [Benno van Hilten](https://onespac.es)
 
 ## Basics
 
