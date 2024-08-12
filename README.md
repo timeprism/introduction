@@ -16,7 +16,7 @@ A 'sharp' is ten plays plus an extra second = 1111 seconds.
 
 Each wind is made up of ten sharps, plus an extra sharp plus ten bits and ten seconds = 12341 seconds.
 
-With some repetition at the end of sequences, and a few seconds grace at the end of the day, the total number of seconds matches that of the conventional 24 hour clock.
+With a few seconds grace (13) at the end of the day, the total number of seconds matches that of the conventional 24 hour clock.
 
 ## Winds
 
