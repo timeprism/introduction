@@ -12,7 +12,7 @@ A 'bit' is ten seconds plus an extra second (called the 'seconscious') = 11 seco
 
 A 'play' is ten bits plus an extra bit and second =  111 seconds.
 
-A 'sharp' is ten plays plays plus an extra second = 1111 seconds.
+A 'sharp' is ten plays plus an extra second = 1111 seconds.
 
 Each wind is made up of ten sharps, plus an extra sharp plus ten bits and ten seconds = 12341 seconds.
 
