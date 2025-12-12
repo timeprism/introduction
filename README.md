@@ -6,7 +6,7 @@ An alternative time system by [Benno van Hilten](https://onespac.es)
 
 The day is split into seven 'winds' (pronounced as in winding a clock).
 
-- Seconds are the smallest units, and are the same duration as conventional seconds. The next largest unit is a Bit, then a Play, then a Sharp, and finally a Wind.
+Seconds are the smallest units, and are the same duration as conventional seconds. The next largest unit is a Bit, then a Play, then a Sharp, and finally a Wind.
 
 - Bit is ten seconds plus one extra second = 11s
 
