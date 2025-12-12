@@ -8,15 +8,53 @@ The day is split into seven 'winds' (pronounced as in winding a clock).
 
 Seconds are the smallest units, and are the same duration as conventional seconds. The next largest unit is a Bit, then a Play, then a Sharp, and finally a Wind.
 
-- Bit is ten seconds plus one extra second = 11s
+## Standard Units
 
-- Play is eleven Bits = 121s
+Most of the day follows a **repdigit pattern** using a "10 + seconscious" structure:
 
-- Sharp is ten Plays, with the last Play being one Bit plus eleven Seconds = 1,111s
+- **Bit** is ten seconds plus one **seconscious** (a transitional marker second) = **11 seconds**
 
-- Wind is eleven Sharps, with the last Sharp being ten Bits plus ten Seconds = 12,341s
+- **Play** is ten Bits plus one seconscious = **111 seconds** (~1 min 51 sec)
 
-With a few seconds grace (13) at the end of the day, the total number of seconds matches that of the conventional 24 hour clock.
+- **Sharp** is ten Plays plus one seconscious = **1,111 seconds** (~18 min 31 sec)
+
+The seconscious is the single-second pause between units—a moment of conscious transition before the next cycle begins.
+
+## The Buffer
+
+Each Wind ends with a **buffer Sharp** (Sharp 10) that reconciles the repdigit structure with the day's length:
+
+- **Sharp 10** contains ten standard Plays (1,110 seconds) plus one **buffer Play**
+
+- The **buffer Play** (Play 10 of Sharp 10) breaks the repdigit pattern: it contains eleven full Bits with no seconscious = **121 seconds**
+
+- This gives Sharp 10 a total of **1,231 seconds** (1,110 + 121)
+
+The buffer is where the system "pays back" the seconds saved by using seconscious markers throughout the day.
+
+## Wind Structure
+
+- **Wind** is ten standard Sharps (11,110 seconds) plus one buffer Sharp (1,231 seconds) = **12,341 seconds** (~3 hrs 25 min 41 sec)
+
+- Seven Winds account for 86,387 seconds, with 13 seconds of **grace** at day's end
+
+## Summary Table
+
+| Unit | Standard Duration | Structure |
+|------|-------------------|-----------|
+| Bit | 11 seconds | 10 seconds + 1 seconscious |
+| Play | 111 seconds | 10 Bits + 1 seconscious |
+| Sharp | 1,111 seconds | 10 Plays + 1 seconscious |
+| Buffer Play | 121 seconds | 11 full Bits (no seconscious) |
+| Buffer Sharp | 1,231 seconds | 10 Plays + 1 Buffer Play |
+| Wind | 12,341 seconds | 10 Sharps + 1 Buffer Sharp |
+| Day | 86,400 seconds | 7 Winds + 13 seconds grace |
+
+## The Rhythm
+
+The seconscious creates a breathing rhythm: ten beats, pause, ten beats, pause. Most of the day pulses in this pattern. Then, once per Wind, the buffer arrives—eleven uninterrupted beats, a slightly longer phrase before the next Wind begins.
+
+This mirrors natural rhythms: regular meter with occasional extended phrases, like a musical cadence or a deep breath before continuing.
 
 ## Winds
 
