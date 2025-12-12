@@ -10,7 +10,7 @@ Seconds are the smallest units, and are the same duration as conventional second
 
 A 'bit' is ten seconds plus an extra second (called the 'seconscious') = 11 seconds.
 
-A 'play' is ten bits plus an extra bit and second =  111 seconds.
+A 'play' is ten bits plus an extra second =  111 seconds.
 
 A 'sharp' is ten plays plus an extra second = 1111 seconds.
 
