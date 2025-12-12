@@ -6,14 +6,15 @@ An alternative time system by [Benno van Hilten](https://onespac.es)
 
 The day is split into seven 'winds' (pronounced as in winding a clock).
 
-Seconds are the smallest units, and are the same duration as conventional seconds. The next largest unit is a bit. Then a play, then a sharp, and finally a wind.
+- Seconds are the smallest units, and are the same duration as conventional seconds. The next largest unit is a Bit, then a Play, then a Sharp, and finally a Wind.
 
 - Bit is ten seconds plus one extra second = 11s
-- Play is eleven bits = 121s
-- Last Play is a bit plus ten seconds plus one extra second = 22s
-- Sharp is nine plays plus one Last play = 1,111s
-- Last Sharp is ten bits plus ten seconds = 120s
-- Wind is eleven sharps plus one Last Sharp = 12,341s
+
+- Play is eleven Bits = 121s
+
+- Sharp is ten Plays, with the last Play being one Bit plus eleven Seconds = 1,111s
+
+- Wind is eleven Sharps, with the last Sharp being ten Bits plus ten Seconds = 12,341s
 
 With a few seconds grace (13) at the end of the day, the total number of seconds matches that of the conventional 24 hour clock.
 
