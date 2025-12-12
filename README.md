@@ -6,15 +6,14 @@ An alternative time system by [Benno van Hilten](https://onespac.es)
 
 The day is split into seven 'winds' (pronounced as in winding a clock).
 
-Seconds are the smallest units, and are the same duration as conventional seconds.
+Seconds are the smallest units, and are the same duration as conventional seconds. The jext largest unit is a nit. Then a play, then a sharp, and finally a wind.
 
-A 'bit' is ten seconds plus an extra second (called the 'seconscious') = 11 seconds.
-
-A 'play' is ten bits plus an extra second =  111 seconds.
-
-A 'sharp' is ten plays plus an extra second = 1111 seconds.
-
-Each wind is made up of ten sharps, plus an extra sharp plus ten bits and ten seconds = 12341 seconds.
+- Bit is ten seconds plus one extra second = 11s
+- Play is eleven bits = 121s
+- Last Play is a bit plus ten seconds plus one extra second = 22s
+- Sharp is nine plays plus one last play = 1,111s
+- Last Sharp is ten bits plus ten seconds = 120s
+- Wind is eleven sharps plus one Last Sharp = 12,341s
 
 With a few seconds grace (13) at the end of the day, the total number of seconds matches that of the conventional 24 hour clock.
 
