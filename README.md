@@ -11,7 +11,7 @@ Seconds are the smallest units, and are the same duration as conventional second
 - Bit is ten seconds plus one extra second = 11s
 - Play is eleven bits = 121s
 - Last Play is a bit plus ten seconds plus one extra second = 22s
-- Sharp is nine plays plus one last play = 1,111s
+- Sharp is nine plays plus one Last play = 1,111s
 - Last Sharp is ten bits plus ten seconds = 120s
 - Wind is eleven sharps plus one Last Sharp = 12,341s
 
